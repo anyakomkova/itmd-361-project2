@@ -1,5 +1,4 @@
 /*all three pages*/
-@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 body{
@@ -12,6 +11,7 @@ h1, h2, h3, h4, h5 {
 }
 p {
     font-family: 'Source Code Pro';
+    text-align: center;
 }
 
 li {
@@ -43,7 +43,7 @@ li {
     position: relative;
     right: 50%;
     display: block;
-    font-family: 'Libre Barcode 128 Text';
+    font-family: 'Press Start 2P';
 }
   
 #nav ul li a {
