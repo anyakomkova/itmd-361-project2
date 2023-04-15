@@ -1,21 +1,21 @@
 /*all three pages*/
-@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mansalva&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Codystar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 body{
     background-color: rgb(164, 113, 209);
   }
 
 h1, h2, h3, h4, h5 {
-    font-family: 'La Belle Aurore';
+    font-family: 'Press Start 2P';
     text-align: center;
 }
 p {
-    font-family: 'Mansalva';
+    font-family: 'Source Code Pro';
 }
 
 li {
-    font-family: 'Mansalva';
+    font-family: 'Source Code Pro';
 }
 
 #nav {
@@ -43,7 +43,7 @@ li {
     position: relative;
     right: 50%;
     display: block;
-    font-family: 'La Belle Aurore';
+    font-family: 'Libre Barcode 128 Text';
 }
   
 #nav ul li a {
@@ -63,7 +63,7 @@ li {
 
 
 .images{
-    height: 300px;
+    height: 600px;
     float: none;
     position: relative;
     align-items: center;
@@ -98,10 +98,5 @@ img:hover{
   #contact-info:hover { 
     transform: scale(1.1); 
   }
-  
-/*Chicago Street Art*/
 
-#street-art-head{
-    font-family: 'Codystar';
-    text-align: center;
-}
+/*Chicago Street Art*/
