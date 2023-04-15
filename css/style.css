@@ -4,7 +4,7 @@ body{
   }
 
 p {
-    font-family: Mansalva;
+    font-family: 'Mansalva';
     }
 
 #nav {
@@ -12,52 +12,52 @@ p {
     overflow: hidden;
   }
   
-  #nav-contain {
+#nav-contain {
     float: left;
     width: 100%;
     position: relative;
-  }
+}
   
-  #nav ul {
+#nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     position: relative;
     left: 50%;
     float: left;
-  }
+}
   
-  #nav ul li {
+#nav ul li {
     float: left;
     position: relative;
     right: 50%;
     display: block;
-    font-family: La Belle Aurore;
-  }
+    font-family: 'La Belle Aurore';
+}
   
-  #nav ul li a {
+#nav ul li a {
     display: block;
     padding: 10px 20px;
     color: rgb(89, 21, 199);
     text-decoration: none;
-  }
+}
   
-  #nav ul li a:hover {
+#nav ul li a:hover {
     background-color: #d79eff;
-  }
+}
 
-  #onpage{
+#onpage{
     text-decoration: underline rgb(86, 61, 189) 3px;
-  }
+}
 
 
-  .images{
+.images{
     height: 300px;
     float: none;
     position: relative;
     align-items: center;
     margin-top: 10px;
-  }
+}
 
 /*Welcome*/
 /*Welcome header font - 'La Belle Aurore'*/
@@ -73,14 +73,15 @@ p {
 /*Street art header font - 'Codystar'*/
 @import url('https://fonts.googleapis.com/css2?family=Codystar&display=swap');
   
-  #streetart img:hover{
+#streetart img:hover{
     border: 10px rgb(196, 171, 239) solid;
     height: 350px;
     width: auto;
     transition: height 1s, width 1s;
     transition-timing-function: ease-out;
-  }
-  #street-art-head{
-    font-family: Codystar;
+}
+
+#street-art-head{
+    font-family: 'Codystar';
     text-align: center;
-  }
+}
