@@ -12,7 +12,11 @@ h1, h2, h3, h4, h5 {
 }
 p {
     font-family: 'Mansalva';
-    }
+}
+
+li {
+    font-family: 'Mansalva';
+}
 
 #nav {
     background-color: rgb(192, 99, 193);
@@ -78,6 +82,23 @@ img:hover{
 
 /*Resume*/
 
+#contact-info {
+    text-align: center;
+    border-style: inset;
+    border-color: rgb(156, 111, 209);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    padding: 10px;
+    background: rgba(86, 36, 166, 0.4);
+    transition: all .2s ease-in-out; 
+  }
+
+  #contact-info:hover { 
+    transform: scale(1.1); 
+  }
+  
 /*Chicago Street Art*/
 
 #street-art-head{
