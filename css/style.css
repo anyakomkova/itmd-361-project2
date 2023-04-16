@@ -10,6 +10,10 @@ body{
   background-color: rgba(255, 255, 255, 0.5);
   border-style: inset;
   border-color: rgb(119, 21, 199);
+  margin: 0 auto 50px auto;
+  padding: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 h1 {
@@ -68,7 +72,7 @@ li {
 }
   
 #nav ul li a:hover {
-  background-color: linear-gradient(#e6b845, rgb(164, 113, 209));;
+  background-color: linear-gradient(#e6b845, rgb(164, 113, 209));
 }
 
 #current_page{
