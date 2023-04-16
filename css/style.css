@@ -19,7 +19,7 @@ body{
 h1 {
   font-family: 'Press Start 2P';
   text-align: center;
-  text-decoration: underline #e6b845;
+  text-decoration: underline;
 }
 
 h2, h3, h4, h5 {
@@ -67,7 +67,7 @@ li {
 #nav ul li a {
   display: block;
   padding: 10px 20px;
-  color: rgb(74, 111, 205);
+  color: rgb(78, 45, 168);
   text-decoration: none;
 }
   
@@ -76,7 +76,7 @@ li {
 }
 
 #current_page{
-  text-decoration: underline #e6b845;
+  text-decoration: underline;
 }
 
 .images{
@@ -110,7 +110,7 @@ img:hover{
 #contact-info {
   text-align: center;
   border-style: inset;
-  border-color: rgb(156, 111, 209);
+  border-color: rgb(74, 111, 205);
   margin-left: 300px;
   margin-right: 300px;
   margin-bottom: 25px;
