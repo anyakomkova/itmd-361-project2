@@ -16,13 +16,10 @@ body{
   padding-right: 5px;
 }
 
-#wrapper {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  position: relative;
-  float: none;
 }
 
 h1 {
