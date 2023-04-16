@@ -2,117 +2,130 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 body{
-    background-color: rgb(164, 113, 209);
-  }
+  background-color: rgb(164, 113, 209);
+}
 
 h1 {
-    font-family: 'Press Start 2P';
-    text-align: center;
-    font-size: 5em;
-    text-decoration: underline #e6b845;
+  font-family: 'Press Start 2P';
+  text-align: center;
+  text-decoration: underline #e6b845;
 }
 
 h2, h3, h4, h5 {
-    font-family: 'Press Start 2P';
-    text-align: center;
+  font-family: 'Press Start 2P';
+  text-align: center;
 }
+
 p {
-    font-family: 'Source Code Pro';
-    text-align: center;
+  font-family: 'Source Code Pro';
+  text-align: center;
 }
 
 li {
-    font-family: 'Source Code Pro';
+  font-family: 'Source Code Pro';
 }
 
 #nav {
-    background-color: rgb(192, 99, 193);
-    overflow: hidden;
-  }
+  background-color: rgb(192, 99, 193);
+  overflow: hidden;
+}
   
 #nav-contain {
-    float: left;
-    width: 100%;
-    position: relative;
+  float: left;
+  width: 100%;
+  position: relative;
 }
   
 #nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    left: 50%;
-    float: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
 }
   
 #nav ul li {
-    float: left;
-    position: relative;
-    right: 50%;
-    display: block;
-    font-family: 'Press Start 2P';
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+  font-family: 'Press Start 2P';
 }
   
 #nav ul li a {
-    display: block;
-    padding: 10px 20px;
-    color: rgb(89, 21, 199);
-    text-decoration: none;
+  display: block;
+  padding: 10px 20px;
+  color: rgb(89, 21, 199);
+  text-decoration: none;
 }
   
 #nav ul li a:hover {
-    background-color: #d79eff;
+  background-color: #d79eff;
 }
 
-#onpage{
-    text-decoration: underline rgb(86, 61, 189) 3px;
+#current_page{
+  text-decoration: underline rgb(189, 146, 61) 3px;
 }
 
 
 .images{
-    height: 400px;
-    float: none;
-    position: relative;
-    align-items: center;
-    margin-top: 10px;
+  height: 400px;
+  float: none;
+  position: relative;
+  align-items: center;
+  margin-top: 10px;
 }
 
 img:hover{
-    border: 10px rgb(196, 171, 239) solid;
-    height: 450px;
-    width: auto;
-    transition: height 1s, width 1s;
-    transition-timing-function: ease-out;
+  border: 10px rgb(196, 171, 239) solid;
+  height: 450px;
+  width: auto;
+  transition: height 1s, width 1s;
+  transition-timing-function: ease-out;
 }
 
 /*Welcome*/
 #welcome_background {
-    background-image: url(../media/welcome_background2.jpg);
+  background-image: url(../media/resume_background2.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
   }
 
 /*Resume*/
 #resume_background {
-    background-image: url(../media/resume_background3.jpg);
-  }
+  background-image: url(../media/resume_background3.jpg);
+  background-repeat: repeat;
+  background-size: auto;
+}
+
+#wrapper-resume {
+  width: 920px;
+  margin: 0 auto 50px auto;
+  padding: 0 20px 30px 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
 
 #contact-info {
-    text-align: center;
-    border-style: inset;
-    border-color: rgb(156, 111, 209);
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-bottom: 25px;
-    margin-top: 25px;
-    padding: 10px;
-    background: rgba(86, 36, 166, 0.4);
-    transition: all .2s ease-in-out; 
-  }
+  text-align: center;
+  border-style: inset;
+  border-color: rgb(156, 111, 209);
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 10px;
+  background: rgba(86, 36, 166, 0.4);
+  transition: all .2s ease-in-out; 
+}
 
-  #contact-info:hover { 
-    transform: scale(1.1); 
-  }
+#contact-info:hover { 
+  transform: scale(1.1); 
+}
 
 /*Chicago Street Art*/
 #street_art_background {
-    background-image: url(../media/streetart_background.jpg);
-  }
+  background-image: url(../media/streetart_background.jpg);
+  background-repeat: repeat;
+  background-size: auto;
+}
