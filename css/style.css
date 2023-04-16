@@ -105,7 +105,11 @@ img:hover{
 #welcome_background {
   background-image: url(../media/welcome_background.jpg);
   background-size: cover;
-  }
+}
+
+.cat:hover {
+    transform: rotate(-13deg);
+}
 
 /*Resume*/
 #resume_background {
