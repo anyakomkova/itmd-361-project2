@@ -5,7 +5,14 @@ body{
     background-color: rgb(164, 113, 209);
   }
 
-h1, h2, h3, h4, h5 {
+h1 {
+    font-family: 'Press Start 2P';
+    text-align: center;
+    font-size: 5em;
+    text-decoration: underline #e6b845;
+}
+
+h2, h3, h4, h5 {
     font-family: 'Press Start 2P';
     text-align: center;
 }
@@ -79,8 +86,14 @@ img:hover{
 }
 
 /*Welcome*/
+#welcome_background {
+    background-image: url(../media/welcome_background2.jpg);
+  }
 
 /*Resume*/
+#resume_background {
+    background-image: url(../media/resume_background3.jpg);
+  }
 
 #contact-info {
     text-align: center;
@@ -100,3 +113,6 @@ img:hover{
   }
 
 /*Chicago Street Art*/
+#street_art_background {
+    background-image: url(../media/streetart_background.jpg);
+  }
