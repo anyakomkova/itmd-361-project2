@@ -72,11 +72,11 @@ li {
 }
   
 #nav ul li a:hover {
-  background-color: #d79eff;
+  background-color: linear-gradient(#e6b845, rgb(164, 113, 209));;
 }
 
 #current_page{
-  text-decoration: underline rgb(189, 146, 61) 3px;
+  text-decoration: underline #e6b845;
 }
 
 
