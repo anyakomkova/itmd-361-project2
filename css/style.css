@@ -183,8 +183,8 @@ video {
 }
 
 .street_img {
-  height: 450px;
-  margin-top: 10px;
+  height: 330px;
+  margin: 10px;
 } 
 
 .street_img:hover {
