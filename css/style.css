@@ -89,6 +89,10 @@ video {
   align-items: center;
 }
 
+.row {
+  display: flex;
+}
+
 /*css for the Welcome page*/
 
 #welcome_background {
@@ -129,7 +133,7 @@ video {
   transition-timing-function: ease-out;
 }
 
-.column3 {
+.column2 {
   flex: 50%;
   padding: 10px;
 }
@@ -216,10 +220,6 @@ video {
   font-family: 'Source Code Pro';
   text-align: center;
   color: #f1e7fa;
-}
-
-.row {
-  display: flex;
 }
   
 .column3 {
