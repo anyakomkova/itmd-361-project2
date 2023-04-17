@@ -80,9 +80,10 @@ li {
   text-decoration: none;
 }
   
-#nav ul li a:hover {
-  background-color: linear-gradient(#e6b845, rgb(164, 113, 209));
-}
+#navbar ul li a:hover {
+  background-color: rgb(78, 45, 168);
+  color: white;
+  }
 
 #current_page{
   font-family: 'Neonderthaw';
