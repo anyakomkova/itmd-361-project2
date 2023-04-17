@@ -19,7 +19,7 @@ body{
 img {
   height: 450px;
   width: auto;
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
 }
@@ -95,12 +95,14 @@ li {
   margin-top: 10px;
 }
 
-video {
+#video {
   height: 800px;
   width: auto;
-  display: block;
   margin-left: auto;
   margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 img:hover{
