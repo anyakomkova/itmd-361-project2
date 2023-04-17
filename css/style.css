@@ -193,12 +193,14 @@ video {
   display: block;
   position: relative;
   margin: 10px;
+  box-shadow: 0 0 10px #d0a4f6, 0 0 20px #ac5bf2, 0 0 30px #8a18ef;
 }
 
 .street_img {
   height: 330px;
   margin-top: 10px;
   margin-bottom: 10px;
+  box-shadow: 0 0 10px #d0a4f6, 0 0 20px #ac5bf2, 0 0 30px #8a18ef;
 } 
 
 .street_img:hover {
