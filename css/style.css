@@ -126,7 +126,7 @@ img:hover {
   transform: rotate(13deg);
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
-  }
+}
 
 .column3 {
   flex: 50%;
