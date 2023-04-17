@@ -97,7 +97,6 @@ video {
 
 .row {
   display: grid;
-  grid-template-columns:20% 20% 20%;
   align-items: center;
 }
 
@@ -143,10 +142,10 @@ video {
   transition-timing-function: ease-out;
 }
 
-/*.column2 {
+.column2 {
   flex: 50%;
   padding: 10px;
-}*/
+}
 
 /*css for the Resume page*/
 
@@ -233,8 +232,8 @@ video {
   color: #f1e7fa;
 }
   
-/*.column3 {
+.column3 {
   flex: 33.33%;
   padding: 10px;
-}*/
+}
 
