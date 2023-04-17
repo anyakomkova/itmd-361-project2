@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
 
-body{
+body {
   background-color: rgb(164, 113, 209);
 }
 
@@ -101,8 +101,7 @@ video {
   background-size: cover;
 }
 
-
-.welcome_img{
+.welcome_img {
   height: 450px;
   margin: 5px;
 }
@@ -140,6 +139,7 @@ video {
 }
 
 /*css for the Resume page*/
+
 #resume_background {
   background-image: url(../media/resume_background3.jpg);
   background-size: cover;
@@ -163,6 +163,7 @@ video {
 }
 
 /*css for the Chicago Street Art page*/
+
 #streetart_background {
   background-image: url(../media/street_art_background.jpg);
   background-size: cover;
