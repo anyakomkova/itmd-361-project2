@@ -8,7 +8,7 @@ body {
   background-color: rgb(164, 113, 209);
 }
 
-#wrapper {
+.wrapper {
   width: 920px;
   background-color: rgba(255, 255, 255, 0.5);
   border-style: inset;
@@ -118,27 +118,27 @@ video {
   transition-timing-function: ease-out;
 }
 
-.cat1 {
+#cat1 {
   height: 450px;
   margin: 10px;
 } 
 
-.cat1:hover {
+#cat1:hover {
   transform: rotate(-13deg);
   transition-timing-function: ease-out;
 }
 
-.cat2 {
+#cat2 {
   height: 450px;
   margin: 10px;
 } 
 
-.cat2:hover {
+#cat2:hover {
   transform: rotate(13deg);
   transition-timing-function: ease-out;
 }
 
-.column2 {
+#column2 {
   flex: 50%;
   padding: 10px;
 }
