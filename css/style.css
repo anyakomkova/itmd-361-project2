@@ -182,8 +182,9 @@ video {
   height: 600px;
   float: none;
   position: relative;
-  align-items: center;
-  margin-top: 10px;
+  margin: 10px;
+  display: block;
+  width: 50%;
 }
 
 .street_img {
