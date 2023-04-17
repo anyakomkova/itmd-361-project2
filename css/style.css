@@ -29,7 +29,6 @@ img {
 h1 {
   font-family: 'Press Start 2P';
   text-align: center;
-  font-size: 4em;
 }
 
 h2, h3, h4, h5 {
@@ -156,6 +155,7 @@ img:hover {
   background-image: url(../media/street_art_background.jpg);
   background-size: cover;
 }
+
 #streert_art_wrapper {
   width: 920px;
   background-color: rgba(0, 0, 0, 0.5);
