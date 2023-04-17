@@ -103,7 +103,7 @@ video {
 }
   
 .welcome_img:hover {
-  height: 475px;
+  height: 460px;
   width: auto;
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
@@ -181,6 +181,11 @@ video {
   align-items: center;
   margin-top: 10px;
 }
+
+.street_img {
+  height: 450px;
+  margin-top: 10px;
+} 
 
 .street_img:hover {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
