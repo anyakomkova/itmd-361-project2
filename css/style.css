@@ -116,7 +116,7 @@ video {
 }
   
 .welcome_img:hover {
-  height: 460px;
+  height: 370px;
   width: auto;
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
