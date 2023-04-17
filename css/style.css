@@ -1,6 +1,7 @@
 /*all three pages*/
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
 body{
   background-color: rgb(164, 113, 209);
 }
@@ -166,4 +167,15 @@ be_kind:hover{
   width: auto;
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
+}
+
+.neonText {
+    font-family: 'Neonderthaw';
+    text-align: center;
+    font-size: 4em;
+  }
+
+.parent{
+  display: flex;   
+  gap: 15px;   
 }
