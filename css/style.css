@@ -6,8 +6,6 @@
 
 body {
   background-color: rgb(164, 113, 209);
-  align-items: center;
-  justify-content: center;
 }
 
 #wrapper {
@@ -19,6 +17,8 @@ body {
   padding: 10px;
   padding-left: 5px;
   padding-right: 5px;
+  align-items: center;
+  justify-content: center;
 }
 
 h1 {
