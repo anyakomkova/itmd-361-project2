@@ -96,7 +96,7 @@ li {
   margin-top: 10px;
 }
 
-#video {
+video {
   height: 400px;
   width: auto;
   margin-left: auto;
@@ -106,7 +106,7 @@ li {
   align-items: center;
 }
 
-img:hover{
+img:hover {
   border: 10px rgb(196, 171, 239) solid;
   height: 450px;
   width: auto;
@@ -133,7 +133,7 @@ img:hover{
 #contact-info {
   text-align: center;
   border-style: inset;
-  border-color: rgb(74, 111, 205);
+  border-color: rgb(99, 136, 230);
   margin-left: 300px;
   margin-right: 300px;
   margin-bottom: 25px;
@@ -153,7 +153,7 @@ img:hover{
   background-size: cover;
 }
 
-.be_kind{
+.be_kind {
   height: 700px;
   float: none;
   position: relative;
@@ -161,21 +161,21 @@ img:hover{
   margin-top: 10px;
 }
 
-.be_kind:hover{
+.be_kind:hover {
   border: 10px rgb(245, 194, 64) solid;
-  height: 850px;
+  height: 750px;
   width: auto;
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
 
 .neonText {
-    font-family: 'Neonderthaw';
-    text-align: center;
-    font-size: 4em;
+  font-family: 'Neonderthaw';
+  text-align: center;
+  font-size: 4em;
 }
 
-.parent{
+.parent {
   display: flex;   
   gap: 5px;   
 }
