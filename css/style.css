@@ -177,5 +177,6 @@ img:hover {
 
 .parent {
   display: flex;   
-  gap: 5px;   
+  gap: 5px;
+  align-items: center;   
 }
