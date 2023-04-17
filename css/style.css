@@ -106,7 +106,7 @@ video {
 img:hover {
   height: 425px;
   width: auto;
-  transition: height 1s, width 1s;
+  transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
 
@@ -124,7 +124,7 @@ img:hover {
 
 .cat2:hover {
   transform: rotate(13deg);
-  transition: height 1s, width 1s;
+  transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
   }
 
@@ -185,7 +185,7 @@ img:hover {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   height: 425px;
   width: auto;
-  transition: height 1s, width 1s;
+  transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
 
