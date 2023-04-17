@@ -141,7 +141,6 @@ video {
 .column2 {
   flex: 50%;
   padding: 10px;
-  align-items: center;
 }
 
 /*css for the Resume page*/
@@ -215,13 +214,6 @@ video {
   font-size: 4em;
   color: #f1e7fa;
   text-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
-}
-
-.parent {
-  display: grid;   
-  gap: 5px;
-  /*align-items: center;*/  
-  place-items: center; 
 }
 
 #street_p {
