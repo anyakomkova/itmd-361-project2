@@ -176,7 +176,7 @@ video {
   background-size: cover;
 }
 
-.streert_art_wrapper {
+#streert_art_wrapper {
   width: 920px;
   background-color: rgba(0, 0, 0, 0.5);
   border-style: inset;
