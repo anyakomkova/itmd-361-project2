@@ -167,7 +167,7 @@ img:hover {
 }
 
 .be_kind {
-  height: 700px;
+  height: 600px;
   float: none;
   position: relative;
   align-items: center;
@@ -175,8 +175,8 @@ img:hover {
 }
 
 .be_kind:hover {
-  border: 10px rgb(245, 194, 64) solid;
-  height: 750px;
+  border: 10px rgb(196, 171, 239) solid;
+  height: 600px;
   width: auto;
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
@@ -191,9 +191,10 @@ img:hover {
 }
 
 .parent {
-  display: flex;   
+  display: grid;   
   gap: 5px;
-  align-items: center;   
+  /*align-items: center;*/  
+  place-items: center; 
 }
 
 #street_p {
