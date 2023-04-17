@@ -83,11 +83,11 @@ p {
 }
 
 #current_page{
-text-decoration: underline;
+  color: white;
 }
 
 .images{
-  height: 400px;
+  height: 450px;
   margin-top: 10px;
   transition: transform .7s ease-in-out;
 }
@@ -103,7 +103,7 @@ video {
 }
 
 img:hover {
-  height: 420px;
+  height: 475px;
   width: auto;
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
@@ -117,13 +117,11 @@ img:hover {
 
 .cat1:hover {
   transform: rotate(-13deg);
-  transition: height 1s, width 1s;
   transition-timing-function: ease-out;
 }
 
 .cat2:hover {
   transform: rotate(13deg);
-  transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
 
