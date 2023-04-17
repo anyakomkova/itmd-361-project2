@@ -220,6 +220,12 @@ video {
   text-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 }
 
+.neonText:hover {
+  text-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
+  font-weight: bold;
+
+}
+
 #street_p {
   font-family: 'Source Code Pro';
   text-align: center;
