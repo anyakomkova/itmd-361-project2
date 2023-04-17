@@ -103,7 +103,8 @@ video {
 
 .welcome_img {
   height: 450px;
-  margin: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
   
 .welcome_img:hover {
@@ -115,7 +116,8 @@ video {
 
 .cat1 {
   height: 450px;
-  margin: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 } 
 
 .cat1:hover {
@@ -125,7 +127,8 @@ video {
 
 .cat2 {
   height: 450px;
-  margin: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 } 
 
 .cat2:hover {
@@ -190,8 +193,9 @@ video {
 }
 
 .street_img {
-  height: 400px;
-  margin: 5px;
+  height: 330px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 } 
 
 .street_img:hover {
@@ -228,6 +232,6 @@ video {
   
 .column3 {
   flex: 33.33%;
-  padding: 5px;
+  padding: 10px;
 }
 
