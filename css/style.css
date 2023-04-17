@@ -99,6 +99,11 @@ video {
   justify-content: space-between;
 }
 
+.center_align {
+  display: flex;
+  align-items: center;
+}
+
 /*css for the Welcome page*/
 
 #welcome_background {
@@ -185,7 +190,7 @@ video {
   padding-right: 5px;
 }
 
-.be_kind {
+#be_kind {
   height: 500px;
   display: block;
   position: relative;
@@ -204,7 +209,7 @@ video {
   transition-timing-function: ease-out;
 }
 
-.be_kind:hover {
+#be_kind:hover {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
 }
@@ -228,8 +233,4 @@ video {
   color: #f1e7fa;
 }
  
-#be_kind_cent {
-  display: flex;
-  justify-content: center;
-}
 
