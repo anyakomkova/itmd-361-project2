@@ -95,6 +95,14 @@ li {
   margin-top: 10px;
 }
 
+video {
+  height: 800px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 img:hover{
   border: 10px rgb(196, 171, 239) solid;
   height: 450px;
