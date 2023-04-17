@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
 body{
   background-color: rgb(164, 113, 209);
@@ -207,7 +206,7 @@ img:hover {
 }
 
 #street_p {
-  font-family: 'Permanent Marker';
+  font-family: 'Source Code Pro';
   text-align: center;
   color: #f1e7fa;
 }
