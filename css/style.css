@@ -96,7 +96,7 @@ li {
 }
 
 #video {
-  height: 800px;
+  height: 400px;
   width: auto;
   margin-left: auto;
   margin-right: auto;
@@ -150,4 +150,20 @@ img:hover{
 #streetart_background {
   background-image: url(../media/street_art_background.jpg);
   background-size: cover;
+}
+
+.be_kind{
+    height: 800px;
+    float: none;
+    position: relative;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+be_kind:hover{
+  border: 10px rgb(245, 194, 64) solid;
+  height: 850px;
+  width: auto;
+  transition: height 0.5s, width 0.5s;
+  transition-timing-function: ease-out;
 }
