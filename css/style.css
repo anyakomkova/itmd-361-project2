@@ -80,7 +80,7 @@ li {
   color: rgb(78, 45, 168);
 }
   
-#navb ul li a:hover {
+#nav ul li a:hover {
   background-color: rgb(78, 45, 168);
   color: white;
   text-shadow: 0 0 15px #763ea7, 0 0 25px #974ada, 0 0 35px #984adc;
