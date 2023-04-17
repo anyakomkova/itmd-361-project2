@@ -9,7 +9,7 @@ body {
 }
 
 .wrapper {
-  width: 920px;
+  width: 1000px;
   background-color: rgba(255, 255, 255, 0.5);
   border-style: inset;
   border-color: rgb(119, 21, 199);
@@ -88,7 +88,8 @@ text-decoration: underline;
 video {
   height: 600px;
   width: auto;
-  margin: 10px;
+  margin: 20px;
+  display: block;
 }
 
 .row {
@@ -109,8 +110,8 @@ video {
 }
 
 .welcome_img {
-  height: 450px;
-  margin: 10px;
+  height: 360px;
+  margin: 20px;
 }
   
 .welcome_img:hover {
@@ -122,21 +123,21 @@ video {
 
 #cat1 {
   height: 450px;
-  margin: 10px;
+  margin: 20px;
 } 
 
 #cat1:hover {
-  transform: rotate(-13deg);
+  transform: rotate(-10deg);
   transition-timing-function: ease-out;
 }
 
 #cat2 {
   height: 450px;
-  margin: 10px;
+  margin: 20px;
 } 
 
 #cat2:hover {
-  transform: rotate(13deg);
+  transform: rotate(10deg);
   transition-timing-function: ease-out;
 }
 
@@ -177,7 +178,7 @@ video {
 }
 
 #streert_art_wrapper {
-  width: 920px;
+  width: 1000px;
   background-color: rgba(0, 0, 0, 0.5);
   border-style: inset;
   border-color: rgb(119, 21, 199);
@@ -191,13 +192,13 @@ video {
   height: 500px;
   display: block;
   position: relative;
-  margin: 10px;
+  margin: 20px;
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 }
 
 .street_img {
   height: 330px;
-  margin: 10px;
+  margin: 20px;
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 } 
 
