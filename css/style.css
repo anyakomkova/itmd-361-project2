@@ -173,6 +173,8 @@ img:hover {
   font-family: 'Neonderthaw';
   text-align: center;
   font-size: 4em;
+  color: #fff;
+  text-shadow: 0 0 10px #8800ff, 0 0 20px #8800ff, 0 0 30px #8800ff;
 }
 
 .parent {
