@@ -187,10 +187,8 @@ video {
 .be_kind {
   height: 500px;
   display: block;
-  width: 50%;
   position: relative;
   margin: 10px;
-  align-items: center;
 }
 
 .street_img {
