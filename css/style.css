@@ -103,7 +103,7 @@ video {
 
 .welcome_img{
   height: 450px;
-  margin-top: 10px;
+  margin: 5px;
 }
   
 .welcome_img:hover {
@@ -114,8 +114,8 @@ video {
 }
 
 .cat1 {
-    height: 450px;
-    margin-top: 10px;
+  height: 450px;
+  margin: 5px;
 } 
 
 .cat1:hover {
@@ -125,7 +125,7 @@ video {
 
 .cat2 {
   height: 450px;
-  margin-top: 10px;
+  margin: 5px;
 } 
 
 .cat2:hover {
@@ -188,7 +188,7 @@ video {
 
 .street_img {
   height: 400px;
-  margin: 10px;
+  margin: 5px;
 } 
 
 .street_img:hover {
