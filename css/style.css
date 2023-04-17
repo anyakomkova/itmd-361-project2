@@ -139,6 +139,7 @@ video {
 .column2 {
   flex: 50%;
   padding: 10px;
+  align-items: center;
 }
 
 /*css for the Resume page*/
@@ -189,6 +190,7 @@ video {
   width: 50%;
   position: relative;
   margin: 10px;
+  align-items: center;
 }
 
 .street_img {
