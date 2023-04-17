@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 
 body{
   background-color: rgb(164, 113, 209);
@@ -198,7 +199,7 @@ img:hover {
 }
 
 #street_p {
-  font-family: 'Source Code Pro', cursive;
+  font-family: 'Rock Salt';
   text-align: center;
   color: #ceb0e9;
 }
