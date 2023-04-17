@@ -104,7 +104,7 @@ video {
 }
 
 img:hover {
-  height: 425px;
+  height: 420px;
   width: auto;
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
@@ -183,15 +183,12 @@ img:hover {
 
 .street_img:hover {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
-  height: 425px;
-  width: auto;
-  transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
 
 .be_kind:hover {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
-  height: 600px;
+  transition-timing-function: ease-out;
 }
 
 .neonText {
