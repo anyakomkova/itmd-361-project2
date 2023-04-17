@@ -33,7 +33,7 @@ p {
   font-family: 'Source Code Pro';
   text-align: center;
 }
-
+/*
 #nav {
   background-color: rgb(192, 99, 193);
   overflow: hidden;
@@ -75,6 +75,8 @@ p {
   text-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
   font-weight: bold;
 }
+
+*/
 
 /*#onpage {
   font-family: 'Press Start 2P';
