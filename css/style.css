@@ -68,7 +68,7 @@ p {
 #nav ul li a {
   display: block;
   padding: 10px 20px;
-  color: rgb(78, 45, 168);
+  /*color: rgb(78, 45, 168);*/
   text-decoration: none;
 }
   
