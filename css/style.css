@@ -116,11 +116,17 @@ img:hover {
   background-size: cover;
 }
 
-.cat:hover {
+.cat1:hover {
   transform: rotate(-13deg);
   transition: height 1s, width 1s;
   transition-timing-function: ease-out;
 }
+
+.cat2:hover {
+  transform: rotate(13deg);
+  transition: height 1s, width 1s;
+  transition-timing-function: ease-out;
+  }
 
 .column3 {
   flex: 50%;
