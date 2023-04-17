@@ -209,7 +209,7 @@ video {
   transition-timing-function: ease-out;
 }
 
-.neonText {
+#neonText {
   font-family: 'Neonderthaw';
   text-align: center;
   font-size: 4em;
@@ -217,10 +217,9 @@ video {
   text-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 }
 
-.neonText:hover {
+#neonText:hover {
   text-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   font-weight: bold;
-
 }
 
 #street_p {
@@ -228,9 +227,9 @@ video {
   text-align: center;
   color: #f1e7fa;
 }
-  
-.column3 {
-  flex: 33.33%;
-  padding: 10px;
+ 
+#be_kind_cent {
+  display: flex;
+  justify-content: center;
 }
 
