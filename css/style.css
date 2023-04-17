@@ -97,6 +97,7 @@ video {
 
 .row {
   display: flex;
+  align-items: center; 
 }
 
 /*css for the Welcome page*/
