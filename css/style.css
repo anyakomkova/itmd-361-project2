@@ -154,7 +154,7 @@ img:hover {
   background-image: url(../media/street_art_background.jpg);
   background-size: cover;
 }
-#wrapper {
+#streert_art_wrapper {
   width: 920px;
   background-color: rgba(0, 0, 0, 0.5);
   border-style: inset;
