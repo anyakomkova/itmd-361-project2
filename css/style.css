@@ -122,6 +122,11 @@ img:hover {
   transition-timing-function: ease-out;
 }
 
+.column3 {
+  flex: 50%;
+  padding: 5px;
+}
+
 /*Resume*/
 #resume_background {
   background-image: url(../media/resume_background3.jpg);
@@ -208,7 +213,7 @@ img:hover {
   display: flex;
 }
   
-.column {
+.column3 {
   flex: 33.33%;
   padding: 5px;
 }
