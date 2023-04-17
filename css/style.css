@@ -96,10 +96,8 @@ video {
   justify-content: space-between;
 }
 
-.center_align {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.center {
+  text-align: center; 
 }
 
 /*css for the Welcome page*/
@@ -110,7 +108,7 @@ video {
 }
 
 .welcome_img {
-  height: 360px;
+  height: 400px;
   margin: 20px;
 }
   
@@ -122,22 +120,22 @@ video {
 }
 
 #cat1 {
-  height: 250px;
-  margin: 20px;
+  height: 360px;
+  margin: 30px;
 } 
 
 #cat1:hover {
-  transform: rotate(-10deg);
+  transform: rotate(10deg);
   transition-timing-function: ease-out;
 }
 
 #cat2 {
-  height: 250px;
-  margin: 20px;
+  height: 360px;
+  margin: 30px;
 } 
 
 #cat2:hover {
-  transform: rotate(10deg);
+  transform: rotate(-10deg);
   transition-timing-function: ease-out;
 }
 
