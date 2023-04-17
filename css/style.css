@@ -186,8 +186,8 @@ img:hover {
   font-family: 'Neonderthaw';
   text-align: center;
   font-size: 4em;
-  color: #fff;
-  text-shadow: 0 0 10px #8800ff, 0 0 20px #8800ff, 0 0 30px #8800ff;
+  color: #ceb0e9;
+  text-shadow: 0 0 10px #9c4ae3, 0 0 20px #60179f, 0 0 30px #6d359e;
 }
 
 .parent {
@@ -195,3 +195,10 @@ img:hover {
   gap: 5px;
   align-items: center;   
 }
+
+#street_p {
+  font-family: 'Source Code Pro', cursive;
+  text-align: center;
+  color: #ceb0e9;
+}
+
