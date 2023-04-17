@@ -42,10 +42,6 @@ p {
   text-align: center;
 }
 
-/*li {
-  font-family: 'Source Code Pro';
-}*/
-
 #nav {
   background-color: rgb(192, 99, 193);
   overflow: hidden;
@@ -108,7 +104,7 @@ video {
 }
 
 img:hover {
-  height: 450px;
+  height: 425px;
   width: auto;
   transition: height 1s, width 1s;
   transition-timing-function: ease-out;
@@ -122,6 +118,8 @@ img:hover {
 
 .cat:hover {
   transform: rotate(-13deg);
+  transition: height 1s, width 1s;
+  transition-timing-function: ease-out;
 }
 
 /*Resume*/
@@ -174,6 +172,10 @@ img:hover {
 
 .street_img:hover {
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
+  height: 425px;
+  width: auto;
+  transition: height 1s, width 1s;
+  transition-timing-function: ease-out;
 }
 
 .be_kind:hover {
