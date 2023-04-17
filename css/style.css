@@ -28,7 +28,7 @@ img {
 h1 {
   font-family: 'Press Start 2P';
   text-align: center;
-  text-decoration: underline;
+  font-size: 4em;
 }
 
 h2, h3, h4, h5 {
@@ -111,7 +111,7 @@ video {
 
 img:hover {
   border: 10px rgb(196, 171, 239) solid;
-  height: 450px;
+  height: 400px;
   width: auto;
   transition: height 1s, width 1s;
   transition-timing-function: ease-out;
