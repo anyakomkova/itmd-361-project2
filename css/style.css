@@ -123,12 +123,12 @@ li {
 }
 
 #cat1 {
-  height: 370px;
+  height: 360px;
   display: block;
   position: relative;
   margin: 15px;
   margin-top: 50px;
-  border: 1mm ridge #bb82ed;
+  border: 3mm ridge #bb82ed;
   filter: drop-shadow(5px 10px 0px #bb82ed);
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
@@ -139,10 +139,10 @@ li {
 }
 
 #cat2 {
-  height: 370px;
+  height: 360px;
   margin: 15px;
   margin-top: 50px;
-  border: 1mm ridge #bb82ed;
+  border: 3mm ridge #bb82ed;
   filter: drop-shadow(5px 10px 0px #bb82ed);
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
@@ -156,7 +156,7 @@ li {
   height: 500px;
   width: auto;
   margin: 5px;
-  border: 1mm ridge #bb82ed;
+  border: 3mm ridge #bb82ed;
   filter: drop-shadow(5px 10px 0px #bb82ed);
   transition: height 0.5s, width 0.5s;
 }
