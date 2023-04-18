@@ -112,7 +112,8 @@ li {
   position: relative;
   margin: 25px;
   margin-left: 15px;
-  filter: drop-shadow(15px 15px 0px #a869de);
+  /*filter: drop-shadow(15px 15px 0px #a869de);*/
+  filter: drop-shadow(15px 20px 0px #9b67c8);
   transition: height 0.5s, width 0.5s;
 }
   
@@ -129,7 +130,7 @@ li {
   position: relative;
   margin: 15px;
   margin-top: 60px;
-  border: 2mm ridge #9b67c8;
+  border: 3mm ridge #9b67c8;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
@@ -141,8 +142,8 @@ li {
 #cat2 {
   height: 340px;
   margin: 15px;
-  margin-bottom: 60px;
-  border: 2mm ridge #9b67c8;
+  margin-top: 60px;
+  border: 3mm ridge #9b67c8;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
@@ -155,7 +156,7 @@ li {
   height: 500px;
   width: auto;
   margin: 5px;
-  border: 4mm ridge #9b67c8;
+  border: 5mm ridge #9b67c8;
   transition: height 0.5s, width 0.5s;
 }
 
@@ -216,7 +217,7 @@ li {
   margin: 20px;
   margin-left: 90px;
   border: 1px solid #d0a4f6;
-  filter: drop-shadow(3px 6px 3px #8b18ef96);
+  filter: drop-shadow(3px 6px 9px #8b18ef96);
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 }
 
@@ -226,19 +227,19 @@ li {
   position: relative;
   margin: 20px;
   border: 1px solid #d0a4f6;
-  filter: drop-shadow(3px 6px 3px #8b18ef96);
+  filter: drop-shadow(3px 6px 9px #8b18ef96);
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 } 
 
 .street_img:hover {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
-  filter: drop-shadow(3px 6px 3px #8b18ef96);
+  filter: drop-shadow(3px 6px 9px #8b18ef96);
   transition-timing-function: ease-out;
 }
 
 #mural:hover {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
-  filter: drop-shadow(3px 6px 3px #8b18ef96);
+  filter: drop-shadow(3px 6px 9px #8b18ef96);
   transition-timing-function: ease-out;
 }
 
@@ -254,7 +255,7 @@ li {
 .neonText:hover {
   text-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   font-weight: bold;
-  filter: drop-shadow(3px 6px 3px #8b18ef96);
+  filter: drop-shadow(3px 6px 9px #8b18ef96);
 }
 
 .street_p {
@@ -270,13 +271,13 @@ li {
   margin-right: 145px;
   border: 1px solid #d0a4f6;
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
-  filter: drop-shadow(3px 6px 3px #8b18ef96);
+  filter: drop-shadow(3px 6px 9px #8b18ef96);
 }
 
 #art_video:hover {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
-  filter: drop-shadow(3px 6px 3px #8b18ef96);
+  filter: drop-shadow(3px 6px 9px #8b18ef96);
 }
  
 
