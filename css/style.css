@@ -136,7 +136,7 @@ li {
 } 
 
 #cat1:hover {
-  transform: rotate(-3deg);
+  transform: rotate(3deg);
 }
 
 #cat2 {
@@ -149,7 +149,7 @@ li {
 } 
 
 #cat2:hover {
-  transform: rotate(3deg);
+  transform: rotate(-3deg);
 }
 
 #cat_video {
