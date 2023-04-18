@@ -88,7 +88,7 @@ text-decoration: underline;
 video {
   height: 500px;
   width: auto;
-  margin: 20px;
+  margin: 30px;
 }
 
 .row {
@@ -108,7 +108,7 @@ video {
 }
 
 .welcome_img {
-  height: 400px;
+  height: 340px;
   margin: 30px;
 }
   
@@ -122,8 +122,6 @@ video {
 #cat1 {
   height: 360px;
   margin: 30px;
-  display: block;
-  position: relative;
 } 
 
 #cat1:hover {
@@ -134,8 +132,6 @@ video {
 #cat2 {
   height: 360px;
   margin: 30px;
-  display: block;
-  position: relative;
 } 
 
 #cat2:hover {
@@ -200,7 +196,7 @@ video {
 }
 
 .street_img {
-  height: 330px;
+  height: 340px;
   margin: 30px;
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 } 
