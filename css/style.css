@@ -90,6 +90,10 @@ text-decoration: underline;
   justify-content: space-between;
 }
 
+.goodbye {
+  color: #f1e7fa;
+}
+
 /*css for the Welcome page*/
 
 #welcome_background {
