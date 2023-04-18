@@ -105,15 +105,13 @@ p {
   display: block;
   position: relative;
   margin: 10px;
-  border-style: inset;
-  border-color: rgb(119, 21, 199);
+  border-style: solid 1px rgb(119, 21, 199);
 }
   
 .welcome_img:hover {
   height: 365px;
   width: auto;
-  border-style: inset;
-  border-color: rgb(119, 21, 199);
+  border-style: solid 1px rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
@@ -123,44 +121,42 @@ p {
   display: block;
   position: relative;
   margin: 10px;
-  border-color: rgb(119, 21, 199);
+  border-style: solid 1px rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
-  transition: transform .5s ease-in-out;
+  transition: transform 0.5s ease-in-out;
 } 
 
 #cat1:hover {
   transform: rotate(5deg);
-  border-color: rgb(119, 21, 199);
-  transition: height 0.5s, width 0.5s;
+  border-style: solid 1px rgb(119, 21, 199);
 }
 
 #cat2 {
   height: 360px;
   margin: 10px;
-  border-color: rgb(119, 21, 199);
+  border-style: solid 1px rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
-  transition: transform .5s ease-in-out;
+  transition: transform 0.5s ease-in-out;
 } 
 
 #cat2:hover {
   transform: rotate(-5deg);
-  border-color: rgb(119, 21, 199);
-  transition: height 0.5s, width 0.5s;
+  border-style: solid 1px rgb(119, 21, 199);
 }
 
 #cat_video {
   height: 500px;
   width: auto;
   margin: 10px;
-  border-color: rgb(119, 21, 199);
+  border-style: solid 1px rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
 }
 
 #cat_video:hover {
   height: 510px;
-  border-color: rgb(119, 21, 199);
+  border-style: solid 1px rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
-  transition: transform .5s ease-in-out;
+  transition-timing-function: ease-out;
 }
 
 /*css for the Resume page*/
