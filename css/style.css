@@ -122,6 +122,8 @@ video {
 #cat1 {
   height: 360px;
   margin: 30px;
+  display: block;
+  position: relative;
 } 
 
 #cat1:hover {
@@ -132,6 +134,8 @@ video {
 #cat2 {
   height: 360px;
   margin: 30px;
+  display: block;
+  position: relative;
 } 
 
 #cat2:hover {
@@ -188,7 +192,7 @@ video {
 }
 
 #be_kind {
-  height: 500px;
+  height: 400px;
   display: block;
   position: relative;
   margin: 30px;
