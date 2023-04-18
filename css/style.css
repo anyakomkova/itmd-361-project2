@@ -106,7 +106,7 @@ p {
   display: block;
   position: relative;
   margin: 20px;
-  filter: drop-shadow(10px 7px 3px #ac5bf2);
+  filter: drop-shadow(10px 15px 0px #a869de);
   transition: height 0.5s, width 0.5s;
 }
   
@@ -118,11 +118,11 @@ p {
 }
 
 #cat1 {
-  height: 380px;
+  height: 370px;
   display: block;
   position: relative;
-  margin: 20px;
-  border: 4mm ridge #ac5bf283;
+  margin: 15px;
+  border: 2mm ridge #a869de;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
@@ -132,9 +132,9 @@ p {
 }
 
 #cat2 {
-  height: 380px;
-  margin: 20px;
-  border: 1px solid #3d1b5c;
+  height: 370px;
+  margin: 15px;
+  border: 2mm ridge #a869de;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
@@ -147,7 +147,7 @@ p {
   height: 500px;
   width: auto;
   margin: 5px;
-  border: 1px solid #3d1b5c;
+  border: 2mm ridge #a869de;
   transition: height 0.5s, width 0.5s;
 }
 
@@ -232,7 +232,7 @@ p {
   font-family: 'Neonderthaw';
   text-align: center;
   font-size: 4em;
-  color: #d0a4f6;
+  color: #f1e7fa;
   text-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 }
 
