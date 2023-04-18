@@ -123,31 +123,31 @@ li {
 }
 
 #cat1 {
-  height: 350px;
+  height: 340px;
   display: block;
   position: relative;
   margin: 15px;
   margin-top: 50px;
-  border: 4mm ridge #bb82ed;
+  border: 6mm ridge #bb82ed;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
 
 #cat1:hover {
-  transform: rotate(-5deg);
+  transform: rotate(-3deg);
 }
 
 #cat2 {
-  height: 350px;
+  height: 340px;
   margin: 15px;
   margin-top: 50px;
-  border: 4mm ridge #bb82ed;
+  border: 6mm ridge #bb82ed;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
 
 #cat2:hover {
-  transform: rotate(5deg);
+  transform: rotate(3deg);
 }
 
 #cat_video {
