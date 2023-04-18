@@ -218,11 +218,13 @@ p {
 } 
 
 .street_img:hover {
+  border: 1px solid #f1e7fa;
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
 }
 
 #be_kind:hover {
+  border: 1px solid #f1e7fa;
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
 }
@@ -254,6 +256,7 @@ p {
 }
 
 #art_video:hover {
+  border: 1px solid #f1e7fa;
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
 }
