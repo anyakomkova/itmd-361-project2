@@ -193,7 +193,7 @@ p {
   width: 950px;
   background-color: rgba(0, 0, 0, 0.6);
   border-style: inset;
-  border-color: #f1e7fa;
+  border-color: #d0a4f6;
   margin: 25px auto 25px auto;
   padding: 10px;
   padding-left: 5px;
@@ -206,7 +206,7 @@ p {
   display: block;
   position: relative;
   margin: 20px;
-  border: 1px solid #f1e7fa;
+  border: 1px solid #d0a4f6;
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 }
 
@@ -215,18 +215,16 @@ p {
   display: block;
   position: relative;
   margin: 20px;
-  border: 1px solid #f1e7fa;
+  border: 1px solid #d0a4f6;
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 } 
 
 .street_img:hover {
-  border: 1px solid #f1e7fa;
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
 }
 
 #be_kind:hover {
-  border: 1px solid #f1e7fa;
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
 }
@@ -235,7 +233,7 @@ p {
   font-family: 'Neonderthaw';
   text-align: center;
   font-size: 4em;
-  color: #f1e7fa;
+  color: #d0a4f6;
   text-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 }
 
@@ -254,12 +252,11 @@ p {
   height: 500px;
   width: auto;
   margin: 20px;
-  border: 1px solid #f1e7fa;
+  border: 1px solid #d0a4f6;
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
 }
 
 #art_video:hover {
-  border: 1px solid #f1e7fa;
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
 }
