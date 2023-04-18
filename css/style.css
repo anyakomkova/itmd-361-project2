@@ -148,7 +148,7 @@ p {
 #cat_video {
   height: 500px;
   width: auto;
-  margin: 20px;
+  margin: 5px;
   border-style: 1px solid rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
 }
