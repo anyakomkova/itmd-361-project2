@@ -127,7 +127,7 @@ li {
   display: block;
   position: relative;
   margin: 15px;
-  border: 2mm ridge #a869de;
+  border: 2mm ridge #bb82ed;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
