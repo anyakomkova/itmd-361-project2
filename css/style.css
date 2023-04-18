@@ -85,19 +85,9 @@ p {
 text-decoration: underline;
 }
 
-video {
-  height: 500px;
-  width: auto;
-  margin: 30px;
-}
-
 .row {
   display: flex;
   justify-content: space-between;
-}
-
-#center {
-  text-align: center; 
 }
 
 /*css for the Welcome page*/
