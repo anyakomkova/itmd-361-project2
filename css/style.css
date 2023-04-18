@@ -68,7 +68,6 @@ p {
 #nav ul li a {
   display: block;
   padding: 10px 20px;
-  /*color: rgb(78, 45, 168);*/
   text-decoration: none;
 }
   
@@ -106,13 +105,13 @@ text-decoration: underline;
   display: block;
   position: relative;
   margin: 20px;
-  border: 5px solid rgb(192, 99, 193);
+  border: 10px solid #f1e7fa;
 }
   
 .welcome_img:hover {
   height: 365px;
   width: auto;
-  border: 5px solid rgb(85, 67, 133);
+  border: 10px solid rgb(192, 99, 193);
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
@@ -122,36 +121,36 @@ text-decoration: underline;
   display: block;
   position: relative;
   margin: 20px;
-  border: 5px solid rgb(192, 99, 193);
+  border: 10px solid #f1e7fa;
   transition: transform .7s ease-in-out;
 } 
 
 #cat1:hover {
   transform: rotate(10deg);
-  border: 5px solid rgb(85, 67, 133);
+  border: 5px solid rgb(192, 99, 193);
 }
 
 #cat2 {
   height: 360px;
   margin: 20px;
-  border: 5px solid rgb(192, 99, 193);
+  border: 10px solid #f1e7fa;
   transition: transform .7s ease-in-out;
 } 
 
 #cat2:hover {
   transform: rotate(-10deg);
-  border: 5px solid rgb(85, 67, 133);
+  border: 10px solid rgb(192, 99, 193);
 }
 
 #cat_video {
   height: 500px;
   width: auto;
   margin: 20px;
-  border: 5px solid rgb(192, 99, 193);
+  border: 10px solid #f1e7fa;
 }
 
 #cat_video:hover {
-  border: 5px solid rgb(85, 67, 133);
+  border: 10px solid rgb(192, 99, 193);
 }
 
 /*css for the Resume page*/
