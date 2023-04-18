@@ -128,7 +128,7 @@ text-decoration: underline;
 } 
 
 #cat1:hover {
-  transform: rotate(10deg);
+  transform: rotate(5deg);
   border: 0px solid rgb(192, 99, 193);
 }
 
@@ -140,7 +140,7 @@ text-decoration: underline;
 } 
 
 #cat2:hover {
-  transform: rotate(-10deg);
+  transform: rotate(-5deg);
   border: 10px solid rgb(192, 99, 193);
 }
 
