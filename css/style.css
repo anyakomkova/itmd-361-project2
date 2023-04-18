@@ -105,14 +105,14 @@ p {
   display: block;
   position: relative;
   margin: 20px;
-  border-style: 2px solid rgb(119, 21, 199);
+  border: 2px solid rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
 }
   
 .welcome_img:hover {
   height: 365px;
   width: auto;
-  border-style: 2px solid rgb(119, 21, 199);
+  border: 2px solid rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
@@ -123,7 +123,7 @@ p {
   position: relative;
   margin: 20px;
   border-style: inset;
-  border-color: rgb(119, 21, 199);
+  border-color: rgb(160, 99, 230);
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
@@ -135,27 +135,26 @@ p {
 #cat2 {
   height: 380px;
   margin: 20px;
-  border-style: 1px solid rgb(119, 21, 199);
+  border: 1px solid rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
 
 #cat2:hover {
   transform: rotate(-5deg);
-  border-style: 1px solid rgb(119, 21, 199);
 }
 
 #cat_video {
   height: 500px;
   width: auto;
   margin: 5px;
-  border-style: 1px solid rgb(119, 21, 199);
+  border: 1px solid rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
 }
 
 #cat_video:hover {
   height: 510px;
-  border-style: 1px solid rgb(119, 21, 199);
+  border: 1px solid rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
@@ -171,8 +170,8 @@ p {
   text-align: center;
   border-style: inset;
   border-color: rgb(99, 136, 230);
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 350px;
+  margin-right: 350px;
   margin-bottom: 25px;
   margin-top: 25px;
   padding: 10px;
