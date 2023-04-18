@@ -251,6 +251,7 @@ li {
 .neonText:hover {
   text-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   font-weight: bold;
+  filter: drop-shadow(5px 5px 5px #672f9882);
 }
 
 .street_p {
