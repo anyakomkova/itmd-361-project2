@@ -110,6 +110,7 @@ video {
 .welcome_img {
   height: 360px;
   margin: 30px;
+  border: 5px rgb(192, 99, 193);
 }
   
 .welcome_img:hover {
@@ -122,26 +123,32 @@ video {
 #cat1 {
   height: 360px;
   margin: 30px;
+  border: 5px rgb(192, 99, 193);
 } 
 
 #cat1:hover {
   transform: rotate(10deg);
-  transition-timing-function: ease-out;
 }
 
 #cat2 {
   height: 360px;
   margin: 30px;
+  border: 5px rgb(192, 99, 193);
 } 
 
 #cat2:hover {
   transform: rotate(-10deg);
-  transition-timing-function: ease-out;
 }
 
-#column2 {
-  flex: 50%;
-  padding: 10px;
+#cat_video {
+  height: 500px;
+  width: auto;
+  margin: 30px;
+  border: 5px rgb(192, 99, 193);
+}
+
+#cat_video:hover {
+  border: 10px rgb(85, 67, 133);
 }
 
 /*css for the Resume page*/
