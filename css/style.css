@@ -111,7 +111,7 @@ li {
   display: block;
   position: relative;
   margin: 25px;
-  filter: drop-shadow(10px 10px 0px #a869de);
+  filter: drop-shadow(15px 15px 0px #a869de);
   transition: height 0.5s, width 0.5s;
 }
   
