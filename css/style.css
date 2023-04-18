@@ -119,6 +119,7 @@ li {
   height: 355px;
   width: auto;
   transition: height 0.5s, width 0.5s;
+  filter: drop-shadow(15px 20px 0px #a869de);
   transition-timing-function: ease-out;
 }
 
