@@ -105,19 +105,19 @@ p {
   display: block;
   position: relative;
   margin: 10px;
-  border-style: 1px solid rgb(119, 21, 199);
+  border-style: 2px solid rgb(119, 21, 199);
 }
   
 .welcome_img:hover {
   height: 365px;
   width: auto;
-  border-style: 1px solid rgb(119, 21, 199);
+  border-style: 2px solid rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
 
 #cat1 {
-  height: 360px;
+  height: 380px;
   display: block;
   position: relative;
   margin: 10px;
@@ -132,7 +132,7 @@ p {
 }
 
 #cat2 {
-  height: 360px;
+  height: 380px;
   margin: 10px;
   border-style: 1px solid rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
