@@ -116,8 +116,9 @@ video {
 }
   
 .welcome_img:hover {
-  height: 370px;
+  height: 365px;
   width: auto;
+  border: 10px rgb(85, 67, 133);
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
@@ -132,6 +133,7 @@ video {
 
 #cat1:hover {
   transform: rotate(10deg);
+  border: 10px rgb(85, 67, 133);
 }
 
 #cat2 {
@@ -142,6 +144,7 @@ video {
 
 #cat2:hover {
   transform: rotate(-10deg);
+  border: 10px rgb(85, 67, 133);
 }
 
 #cat_video {
