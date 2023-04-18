@@ -170,8 +170,8 @@ p {
   text-align: center;
   border-style: inset;
   border-color: rgb(99, 136, 230);
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 200px;
+  margin-right: 200px;
   margin-bottom: 25px;
   margin-top: 25px;
   padding: 10px;
