@@ -214,7 +214,7 @@ li {
   display: block;
   position: relative;
   margin: 20px;
-  margin-left: 100px;
+  margin-left: 75px;
   border: 1px solid #d0a4f6;
   filter: drop-shadow(3px 6px 3px #8b18ef96);
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
@@ -267,7 +267,7 @@ li {
   height: 500px;
   width: auto;
   margin: 20px;
-  margin-right: 125px;
+  margin-right: 145px;
   border: 1px solid #d0a4f6;
   box-shadow: 0 0 15px #d0a4f6, 0 0 25px #ac5bf2, 0 0 35px #8a18ef;
   filter: drop-shadow(3px 6px 3px #8b18ef96);
