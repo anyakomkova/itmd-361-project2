@@ -123,36 +123,44 @@ text-decoration: underline;
   display: block;
   position: relative;
   margin: 10px;
-  border: 10px solid #f1e7fa;
-  transition: transform .3s ease-in-out;
+  border-color: rgb(119, 21, 199);
+  transition: height 0.5s, width 0.5s;
+  transition: transform .5s ease-in-out;
 } 
 
 #cat1:hover {
   transform: rotate(5deg);
-  border: 0px solid rgb(192, 99, 193);
+  border-color: rgb(119, 21, 199);
+  transition: height 0.5s, width 0.5s;
 }
 
 #cat2 {
   height: 360px;
   margin: 10px;
-  border: 10px solid #f1e7fa;
-  transition: transform .3s ease-in-out;
+  border-color: rgb(119, 21, 199);
+  transition: height 0.5s, width 0.5s;
+  transition: transform .5s ease-in-out;
 } 
 
 #cat2:hover {
   transform: rotate(-5deg);
-  border: 10px solid rgb(192, 99, 193);
+  border-color: rgb(119, 21, 199);
+  transition: height 0.5s, width 0.5s;
 }
 
 #cat_video {
   height: 500px;
   width: auto;
   margin: 10px;
-  border: 10px solid #f1e7fa;
+  border-color: rgb(119, 21, 199);
+  transition: height 0.5s, width 0.5s;
 }
 
 #cat_video:hover {
-  border: 10px solid rgb(192, 99, 193);
+  height: 510px;
+  border-color: rgb(119, 21, 199);
+  transition: height 0.5s, width 0.5s;
+  transition: transform .5s ease-in-out;
 }
 
 /*css for the Resume page*/
