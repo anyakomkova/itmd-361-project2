@@ -257,5 +257,37 @@ p {
   box-shadow: 0 0 20px #d0a4f6, 0 0 30px #ac5bf2, 0 0 40px #8a18ef;
   transition-timing-function: ease-out;
 }
+
+/*tried out a typewriter effecr*/
+
+.demo-typewriter span {
+  font-family: 'Source Code Pro';
+  text-align: center;
+  color: #f1e7fa;
+  overflow: hidden;   
+  border-right: .10em solid #ac5bf2;
+  white-space: nowrap;   
+  margin: 0 auto;   
+  letter-spacing: .4rem;   
+  animation: demo-typewriter 3s steps(30, end), demo-cursor 1s step-end infinite;
+}
+
+@keyframes demo-typewriter {
+  from { 
+    width: 0;
+  }
+  to { 
+    width: 100%;
+  }
+}
+
+@keyframes demo-cursor {
+  from, to { 
+    border-color: transparent; 
+}
+  50% { 
+border-color: #ac5bf2; 
+  }
+}
  
 
