@@ -102,16 +102,17 @@ p {
 }
 
 .welcome_img {
-  height: 360px;
+  height: 350px;
   display: block;
   position: relative;
   margin: 20px;
-  border: 1px solid #8a18ef;
+  border: 1px solid #3d1b5c;
+  filter: drop-shadow(10px 10px 3px #dfa4ff);
   transition: height 0.5s, width 0.5s;
 }
   
 .welcome_img:hover {
-  height: 365px;
+  height: 355px;
   width: auto;
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
@@ -122,8 +123,7 @@ p {
   display: block;
   position: relative;
   margin: 20px;
-  border-style: inset;
-  border-color: #8a18ef;
+  border: 1px solid #3d1b5c;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
@@ -135,7 +135,7 @@ p {
 #cat2 {
   height: 380px;
   margin: 20px;
-  border: 1px solid #8a18ef;
+  border: 1px solid #3d1b5c;
   transition: height 0.5s, width 0.5s;
   transition: transform 0.5s ease-in-out;
 } 
@@ -148,7 +148,7 @@ p {
   height: 500px;
   width: auto;
   margin: 5px;
-  border: 1px solid #8a18ef;
+  border: 1px solid #3d1b5c;
   transition: height 0.5s, width 0.5s;
 }
 
