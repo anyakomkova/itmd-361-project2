@@ -105,13 +105,15 @@ text-decoration: underline;
   display: block;
   position: relative;
   margin: 10px;
-  border: 10px solid #f1e7fa;
+  border-style: inset;
+  border-color: rgb(119, 21, 199);
 }
   
 .welcome_img:hover {
   height: 365px;
   width: auto;
-  border: 10px solid rgb(192, 99, 193);
+  border-style: inset;
+  border-color: rgb(119, 21, 199);
   transition: height 0.5s, width 0.5s;
   transition-timing-function: ease-out;
 }
