@@ -36,6 +36,11 @@ p {
   text-align: center;
 }
 
+li {
+  font-family: 'Source Code Pro';
+  text-align: center;
+}
+
 #nav {
   background-color: rgb(192, 99, 193, 0.75);
   overflow: hidden;
