@@ -106,8 +106,7 @@ p {
   display: block;
   position: relative;
   margin: 20px;
-  border: 2px solid #d0a4f6;
-  filter: drop-shadow(7px 7px 3px #ac5bf2);
+  filter: drop-shadow(10px 7px 3px #ac5bf2);
   transition: height 0.5s, width 0.5s;
 }
   
